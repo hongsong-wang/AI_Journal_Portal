@@ -4,14 +4,14 @@ To facilitate students and researchers in quickly locating papers based on keywo
 
 This website is [AI_Journal_Portal](https://hongsong-wang.github.io/AI_Journal_Portal/). We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Portal/), [AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Portal/), [CS_arXiv_Paper](https://hongsong-wang.github.io/CS_arXiv_Paper) and [BestPaperAwards_AI](https://github.com/hongsong-wang/BestPaperAwards_AI). Please also star these repositories https://github.com/hongsong-wang/AI_Journal_Portal](https://github.com/hongsong-wang/AI_Journal_Portal), [https://github.com/hongsong-wang/CV_Paper_Portal](https://github.com/hongsong-wang/CV_Paper_Portal), [https://github.com/hongsong-wang/AI_arXiv_Portal](https://github.com/hongsong-wang/AI_arXiv_Portal), [https://github.com/hongsong-wang/CS_arXiv_Paper](https://github.com/hongsong-wang/CS_arXiv_Paper) and [https://github.com/hongsong-wang/BestPaperAwards_AI](https://github.com/hongsong-wang/BestPaperAwards_AI) if they help you! 
 
-## [IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, IF: 18.6)](https://ieeexplore.ieee.org/xpl/issues?punumber=34&isnumber=11552636)
+## [Transactions on Pattern Analysis and Machine Intelligence (TPAMI, IF: 18.6)](https://ieeexplore.ieee.org/xpl/issues?punumber=34&isnumber=11552636)
 [2026](https://hongsong-wang.github.io/TPAMI2026/),&nbsp; [2025](https://hongsong-wang.github.io/TPAMI2025/),&nbsp; [2024](https://hongsong-wang.github.io/TPAMI2024/)
 
-## [IEEE Transactions on Image Processing (TIP, IF: 13.7)](https://ieeexplore.ieee.org/xpl/issues?punumber=83&isnumber=11355710)
+## [Transactions on Image Processing (TIP, IF: 13.7)](https://ieeexplore.ieee.org/xpl/issues?punumber=83&isnumber=11355710)
 [2026](https://hongsong-wang.github.io/TIP2026/),&nbsp; [2025](https://hongsong-wang.github.io/TIP2025/),&nbsp; [2024](https://hongsong-wang.github.io/TIP2024/),&nbsp; [2023](https://hongsong-wang.github.io/TIP2023/)
 
-## [IEEE Transactions on Multimedia (TMM, IF: 9.7)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
+## [Transactions on Multimedia (TMM, IF: 9.7)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
 [2026](https://hongsong-wang.github.io/TMM2026/),&nbsp; [2025](https://hongsong-wang.github.io/TMM2025/),&nbsp; [2024](https://hongsong-wang.github.io/TMM2024/),&nbsp; [2023](https://hongsong-wang.github.io/TMM2023/)
 
-## [IEEE Transactions on Circuits and Systems for Video Technology (TCSVT, IF: 11.1)](https://ieeexplore.ieee.org/xpl/issues?punumber=76&isnumber=11552944)
+## [Transactions on Circuits and Systems for Video Technology (TCSVT, IF: 11.1)](https://ieeexplore.ieee.org/xpl/issues?punumber=76&isnumber=11552944)
 [2026](https://hongsong-wang.github.io/TCSVT2026/),&nbsp; [2025](https://hongsong-wang.github.io/TCSVT2025/),&nbsp; [2024](https://hongsong-wang.github.io/TCSVT2024/)
