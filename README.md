@@ -16,7 +16,7 @@ This website is [AI_Journal_Portal](https://hongsong-wang.github.io/AI_Journal_P
 ## [Transactions on Circuits and Systems for Video Technology (TCSVT, IF: 11.1)](https://ieeexplore.ieee.org/xpl/issues?punumber=76&isnumber=11552944)
 [2026](https://hongsong-wang.github.io/TCSVT2026/),&nbsp; [2025](https://hongsong-wang.github.io/TCSVT2025/),&nbsp; [2024](https://hongsong-wang.github.io/TCSVT2024/)
 
-## [Transactions on Information Forensics and Security (TIFS, IF: 8.0)(https://ieeexplore.ieee.org/xpl/issues?punumber=10206&isnumber=11313711)
+## [Transactions on Information Forensics and Security (TIFS, IF: 8.0)](https://ieeexplore.ieee.org/xpl/issues?punumber=10206&isnumber=11313711)
 [2026](https://hongsong-wang.github.io/TIFS2026/),&nbsp; [2025](https://hongsong-wang.github.io/TIFS2025/)
 
 ## Acknowledgements
