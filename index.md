@@ -27,7 +27,7 @@ This website is [AI_Journal_Portal](https://hongsong-wang.github.io/AI_Journal_P
 
 ## Acknowledgements
 
-若该文档对您有所帮助，请在页面右上角点个Star⭐支持一下，谢谢！
+若[AI_Journal_Portal](https://github.com/hongsong-wang/AI_Journal_Portal)对您有所帮助，请在https://github.com/hongsong-wang/AI_Journal_Portal页面右上角点个Star⭐支持一下，谢谢！
 
 如果转载该文档的内容，请注明出处：https://github.com/hongsong-wang/AI_Journal_Portal
 
