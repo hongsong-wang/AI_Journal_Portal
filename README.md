@@ -16,7 +16,7 @@ This website is [AI_Journal_Portal](https://hongsong-wang.github.io/AI_Journal_P
 ## [Transactions on Circuits and Systems for Video Technology (TCSVT, IF: 11.1)](https://ieeexplore.ieee.org/xpl/issues?punumber=76&isnumber=11552944)
 [2026](https://hongsong-wang.github.io/TCSVT2026/),&nbsp; [2025](https://hongsong-wang.github.io/TCSVT2025/),&nbsp; [2024](https://hongsong-wang.github.io/TCSVT2024/)
 
-# Acknowledgements
+## Acknowledgements
 
 若该文档对您有所帮助，请在页面右上角点个Star⭐支持一下，谢谢！
 
