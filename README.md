@@ -25,6 +25,18 @@ This website is [AI_Journal_Portal](https://hongsong-wang.github.io/AI_Journal_P
 ## [Transactions on Knowledge and Data Engineering (TKDE, IF: 10.4)](https://ieeexplore.ieee.org/xpl/issues?punumber=69&isnumber=11538062)
 [2026](https://hongsong-wang.github.io/TKDE2026/),&nbsp; [2025](https://hongsong-wang.github.io/TKDE2025/)
 
+## [IEEE Transactions on Cybernetics (TCYB, IF: 11.3)](https://ieeexplore.ieee.org/xpl/issues?punumber=6221036&isnumber=11569513)
+[2026](https://hongsong-wang.github.io/TCYB2026/),&nbsp; [2025](https://hongsong-wang.github.io/TCYB2025/)
+
+## [IEEE Transactions on Evolutionary Computation (TEC, IF: 15.9)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)
+[2026](https://hongsong-wang.github.io/TEC2026/),&nbsp; [2025](https://hongsong-wang.github.io/TEC2025/)
+
+## [IEEE Transactions on Visualization and Computer Graphics (TVCG, IF: 6.8)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945)
+[2026](https://hongsong-wang.github.io/TVCG2026/),&nbsp; [2025](https://hongsong-wang.github.io/TVCG2025/)
+
+## [IEEE Transactions on Robotics (TRO, IF: 11.1)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)
+[2026](https://hongsong-wang.github.io/TRO2026/),&nbsp; [2025](https://hongsong-wang.github.io/TRO2025/)
+
 ## Acknowledgements
 
 若该文档对您有所帮助，请在页面右上角点个Star⭐支持一下，谢谢！
