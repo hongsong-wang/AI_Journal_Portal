@@ -18,7 +18,7 @@ This website is [AI_Journal_Portal](https://hongsong-wang.github.io/AI_Journal_P
 ## [Transactions on Circuits and Systems for Video Technology (TCSVT, IF: 11.1)](https://ieeexplore.ieee.org/xpl/issues?punumber=76&isnumber=11552944)
 [2026](https://hongsong-wang.github.io/TCSVT2026/),&nbsp; [2025](https://hongsong-wang.github.io/TCSVT2025/),&nbsp; [2024](https://hongsong-wang.github.io/TCSVT2024/)
 
-## [IEEE Transactions on Visualization and Computer Graphics (TVCG, IF: 6.8)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945)
+## [Transactions on Visualization and Computer Graphics (TVCG, IF: 6.8)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945)
 [2026](https://hongsong-wang.github.io/TVCG2026/),&nbsp; [2025](https://hongsong-wang.github.io/TVCG2025/)
 
 <div align="center"><h1 style="margin:0;"><span style="color:#ff7f0e;">Cognition</span></h1></div>
@@ -26,7 +26,7 @@ This website is [AI_Journal_Portal](https://hongsong-wang.github.io/AI_Journal_P
 ## [Transactions on Knowledge and Data Engineering (TKDE, IF: 10.4)](https://ieeexplore.ieee.org/xpl/issues?punumber=69&isnumber=11538062)
 [2026](https://hongsong-wang.github.io/TKDE2026/),&nbsp; [2025](https://hongsong-wang.github.io/TKDE2025/)
 
-## [IEEE Transactions on Artificial Intelligence (TAI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688)
+## [Transactions on Artificial Intelligence (TAI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688)
 [2025](https://hongsong-wang.github.io/TAI2025/)
 
 ## [Transactions on Neural Networks and Learning Systems (TNNLS, IF: 8.9)](https://ieeexplore.ieee.org/xpl/issues?punumber=5962385&isnumber=11549955)
@@ -35,15 +35,15 @@ This website is [AI_Journal_Portal](https://hongsong-wang.github.io/AI_Journal_P
 ## [Transactions on Information Forensics and Security (TIFS, IF: 8.0)](https://ieeexplore.ieee.org/xpl/issues?punumber=10206&isnumber=11313711)
 [2026](https://hongsong-wang.github.io/TIFS2026/),&nbsp; [2025](https://hongsong-wang.github.io/TIFS2025/)
 
-## [IEEE Transactions on Evolutionary Computation (TEC, IF: 15.9)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)
+## [Transactions on Evolutionary Computation (TEC, IF: 15.9)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)
 [2026](https://hongsong-wang.github.io/TEC2026/),&nbsp; [2025](https://hongsong-wang.github.io/TEC2025/)
 
 <div align="center"><h1 style="margin:0;"><span style="color:red">Cybernetics</span></h1></div>
 
-## [IEEE Transactions on Cybernetics (TCYB, IF: 11.3)](https://ieeexplore.ieee.org/xpl/issues?punumber=6221036&isnumber=11569513)
+## [Transactions on Cybernetics (TCYB, IF: 11.3)](https://ieeexplore.ieee.org/xpl/issues?punumber=6221036&isnumber=11569513)
 [2026](https://hongsong-wang.github.io/TCYB2026/),&nbsp; [2025](https://hongsong-wang.github.io/TCYB2025/)
 
-## [IEEE Transactions on Robotics (TRO, IF: 11.1)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)
+## [Transactions on Robotics (TRO, IF: 11.1)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)
 [2026](https://hongsong-wang.github.io/TRO2026/),&nbsp; [2025](https://hongsong-wang.github.io/TRO2025/)
 
 ## Acknowledgements
