@@ -1,9 +1,10 @@
-# Paper Portal for Top Journals of Computer Vision, Pattern Analysis, Machine Learning and Artificial intelligence
+# Paper Portal for Top Journals of Computer Vision, Pattern Analysis, Machine Learning and Artificial intelligence (Journal Portal of <span style="color:#16A34A;">Perception</span>-<span style="color:#ff7f0e;">Cognition</span>-<span style="color:red">Cybernetics</span>)
 
 To facilitate students and researchers in quickly locating papers based on keywords, I consolidated the abstracts from the top journals in the fields of computer vision, pattern analysis, machine learning and artificial intelligence and created some webpages. These papers can also be searched via **[ArXiv or Top Conference/Journal Paper Search Portal](http://47.102.131.153/)**.
 
 This website is [AI_Journal_Portal](https://hongsong-wang.github.io/AI_Journal_Portal/). We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Portal/), [AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Portal/), [CS_arXiv_Paper](https://hongsong-wang.github.io/CS_arXiv_Paper) and [BestPaperAwards_AI](https://github.com/hongsong-wang/BestPaperAwards_AI). Please also star these repositories [AI_Journal_Portal](https://github.com/hongsong-wang/AI_Journal_Portal), [CV_Paper_Portal](https://github.com/hongsong-wang/CV_Paper_Portal), [AI_arXiv_Portal](https://github.com/hongsong-wang/AI_arXiv_Portal), [CS_arXiv_Paper](https://github.com/hongsong-wang/CS_arXiv_Paper) and [BestPaperAwards_AI](https://github.com/hongsong-wang/BestPaperAwards_AI) if they help you! 
 
+<div align="center"><h1 style="margin:0;"><span style="color:#16A34A;">Perception</span></h1></div>
 ## [Transactions on Pattern Analysis and Machine Intelligence (TPAMI, IF: 20.4)](https://ieeexplore.ieee.org/xpl/issues?punumber=34&isnumber=11552636)
 [2026](https://hongsong-wang.github.io/TPAMI2026/),&nbsp; [2025](https://hongsong-wang.github.io/TPAMI2025/),&nbsp; [2024](https://hongsong-wang.github.io/TPAMI2024/)
 
@@ -16,23 +17,27 @@ This website is [AI_Journal_Portal](https://hongsong-wang.github.io/AI_Journal_P
 ## [Transactions on Circuits and Systems for Video Technology (TCSVT, IF: 11.1)](https://ieeexplore.ieee.org/xpl/issues?punumber=76&isnumber=11552944)
 [2026](https://hongsong-wang.github.io/TCSVT2026/),&nbsp; [2025](https://hongsong-wang.github.io/TCSVT2025/),&nbsp; [2024](https://hongsong-wang.github.io/TCSVT2024/)
 
-## [Transactions on Information Forensics and Security (TIFS, IF: 8.0)](https://ieeexplore.ieee.org/xpl/issues?punumber=10206&isnumber=11313711)
-[2026](https://hongsong-wang.github.io/TIFS2026/),&nbsp; [2025](https://hongsong-wang.github.io/TIFS2025/)
+## [IEEE Transactions on Visualization and Computer Graphics (TVCG, IF: 6.8)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945)
+[2026](https://hongsong-wang.github.io/TVCG2026/),&nbsp; [2025](https://hongsong-wang.github.io/TVCG2025/)
 
-## [Transactions on Neural Networks and Learning Systems (TNNLS, IF: 8.9)](https://ieeexplore.ieee.org/xpl/issues?punumber=5962385&isnumber=11549955)
-[2026](https://hongsong-wang.github.io/TNNLS2026/),&nbsp; [2025](https://hongsong-wang.github.io/TNNLS2025/)
+<div align="center"><h1 style="margin:0;"><span style="color:#ff7f0e;">Cognition</span></h1></div>
 
 ## [Transactions on Knowledge and Data Engineering (TKDE, IF: 10.4)](https://ieeexplore.ieee.org/xpl/issues?punumber=69&isnumber=11538062)
 [2026](https://hongsong-wang.github.io/TKDE2026/),&nbsp; [2025](https://hongsong-wang.github.io/TKDE2025/)
 
-## [IEEE Transactions on Cybernetics (TCYB, IF: 11.3)](https://ieeexplore.ieee.org/xpl/issues?punumber=6221036&isnumber=11569513)
-[2026](https://hongsong-wang.github.io/TCYB2026/),&nbsp; [2025](https://hongsong-wang.github.io/TCYB2025/)
+## [Transactions on Neural Networks and Learning Systems (TNNLS, IF: 8.9)](https://ieeexplore.ieee.org/xpl/issues?punumber=5962385&isnumber=11549955)
+[2026](https://hongsong-wang.github.io/TNNLS2026/),&nbsp; [2025](https://hongsong-wang.github.io/TNNLS2025/)
+
+## [Transactions on Information Forensics and Security (TIFS, IF: 8.0)](https://ieeexplore.ieee.org/xpl/issues?punumber=10206&isnumber=11313711)
+[2026](https://hongsong-wang.github.io/TIFS2026/),&nbsp; [2025](https://hongsong-wang.github.io/TIFS2025/)
 
 ## [IEEE Transactions on Evolutionary Computation (TEC, IF: 15.9)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)
 [2026](https://hongsong-wang.github.io/TEC2026/),&nbsp; [2025](https://hongsong-wang.github.io/TEC2025/)
 
-## [IEEE Transactions on Visualization and Computer Graphics (TVCG, IF: 6.8)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945)
-[2026](https://hongsong-wang.github.io/TVCG2026/),&nbsp; [2025](https://hongsong-wang.github.io/TVCG2025/)
+<div align="center"><h1 style="margin:0;"><span style="color:red">Cybernetics</span></h1></div>
+
+## [IEEE Transactions on Cybernetics (TCYB, IF: 11.3)](https://ieeexplore.ieee.org/xpl/issues?punumber=6221036&isnumber=11569513)
+[2026](https://hongsong-wang.github.io/TCYB2026/),&nbsp; [2025](https://hongsong-wang.github.io/TCYB2025/)
 
 ## [IEEE Transactions on Robotics (TRO, IF: 11.1)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)
 [2026](https://hongsong-wang.github.io/TRO2026/),&nbsp; [2025](https://hongsong-wang.github.io/TRO2025/)
