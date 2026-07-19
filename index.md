@@ -1,4 +1,4 @@
-# Paper Portal for Top Journals of Computer Vision, Machine Learning, and Robotics (Journal Portal of <span style="color:#16A34A;">Perception</span>-<span style="color:#ff7f0e;">Cognition</span>-<span style="color:red">Cybernetics</span>)
+# Paper Portal for Top Journals of Vision, Learning, and Robotics (Journal Portal of <span style="color:#16A34A;">Perception</span>-<span style="color:#ff7f0e;">Cognition</span>-<span style="color:red">Cybernetics</span>)
 
 To facilitate students and researchers in quickly locating papers based on keywords, I consolidated the abstracts from the top journals in the fields of computer vision, pattern analysis, machine learning and artificial intelligence and created some webpages. These papers can also be searched via **[ArXiv or Top Conference/Journal Paper Search Portal](http://47.102.131.153/)**.
 
