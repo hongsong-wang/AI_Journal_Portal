@@ -26,6 +26,9 @@ This website is [AI_Journal_Portal](https://hongsong-wang.github.io/AI_Journal_P
 ## [Transactions on Knowledge and Data Engineering (TKDE, IF: 10.4)](https://ieeexplore.ieee.org/xpl/issues?punumber=69&isnumber=11538062)
 [2026](https://hongsong-wang.github.io/TKDE2026/),&nbsp; [2025](https://hongsong-wang.github.io/TKDE2025/)
 
+## [IEEE Transactions on Artificial Intelligence (TAI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688)
+[2025](https://hongsong-wang.github.io/TAI2025/)
+
 ## [Transactions on Neural Networks and Learning Systems (TNNLS, IF: 8.9)](https://ieeexplore.ieee.org/xpl/issues?punumber=5962385&isnumber=11549955)
 [2026](https://hongsong-wang.github.io/TNNLS2026/),&nbsp; [2025](https://hongsong-wang.github.io/TNNLS2025/)
 
